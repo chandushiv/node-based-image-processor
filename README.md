@@ -1,6 +1,7 @@
 # Node-Based Image Processor
-![Screenshot](screenshot.png) *← Add actual screenshot later*
+![picture](https://github.com/user-attachments/assets/e97b3605-0123-4b74-bd59-fb1031e66ff0)
 
+  
 ## Features
 - Load/save JPG/PNG/BMP
 - Grayscale, Blur, Edge Detection
